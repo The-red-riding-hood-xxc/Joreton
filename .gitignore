@@ -1,0 +1,15 @@
+# 金鑰檔案 (最重要！)
+.env
+
+# Python 產生的編譯檔
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境
+venv/
+env/
+
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
