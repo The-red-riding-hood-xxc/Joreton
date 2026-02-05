@@ -27,7 +27,7 @@ async def on_message(message):
 
     msg = message.content.lower()
     a = "周雨同"
-    sheep = ["喜羊羊", "替罪羊", "笑笑羊", "美羊羊", "懶羊羊", "沸羊羊", "暖羊羊", "慢羊羊", "電子羊"]
+    sheep = ["喜羊羊", "替罪羊", "笑笑羊", "美羊羊", "懶羊羊", "沸羊羊", "暖羊羊", "慢羊羊", "電子羊", "陳紫羊"]
 
     for name in sheep:
         if name in msg:
